@@ -1,6 +1,6 @@
-# GNU SmallTalk Dev Environment
+# GNU Smalltalk Dev Environment
 
-As I was exploring SmallTalk via GNU SmallTalk, I encountered issues to install the dev environment locally, so I wrapped it in a container. You can pull the image locally with:
+As I was exploring Smalltalk via GNU Smalltalk, I encountered issues to install the dev environment locally, so I wrapped it in a container. You can pull the image locally with:
 
 ```bash
 docker pull tonysm/smalltalk-dev
